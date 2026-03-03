@@ -1,0 +1,5 @@
+{
+  "name": "Epistemic Inquiry Visualizer",
+  "description": "A 3D visualization tool for analyzing research questions through the lens of major epistemic frameworks (Hume, Kant, Popper, Lakatos, Kuhn/Dewey).",
+  "requestFramePermissions": []
+}
